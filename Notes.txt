@@ -1,0 +1,28 @@
+Done - Add collisions
+Done - Add scoring system, lives and start button
+Done - fix y-axis bug
+Done - fix platform used before assigned bug - Make enemies list part of the level class, and refactor everything
+Done - fix start bug - doesn't create new level on 2nd go onwards
+Done - fix enemy sprite bug
+Done - add high score feature
+Done - sort bug out with no attribute moving left for enemy
+Done - make sure platforms always have space down the left to get down from
+Done - sort bug where can change character image when not running
+Done - add sounds
+Don't do     - add music
+Done - refactor
+Done - Add controller compatibility
+        Start - button 7
+        B - button 1
+        A = button 0
+
+
+
+
+    --------- Later ---------
+1) Make enemies not appear or go through platforms
+2) Add power-ups
+3) Make difficulty increase
+4) Replace sprites with better ones (Use sprites for platforms and use spritecollide function)
+5) Different baddies with different behaviours
+6) Bosses
